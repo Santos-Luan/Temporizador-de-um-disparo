@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = 'build/Temporizador.uf2'
+elf = 'build/Temporizador.elf'
+simSpeed = 1.0
